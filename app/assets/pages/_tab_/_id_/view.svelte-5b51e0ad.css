@@ -1,0 +1,1 @@
+div.template-view-root.svelte-hooacs{height:90%;padding-inline:2em;margin-top:2rem;position:relative}div.template-view-root.no-data.svelte-hooacs:before{content:attr(data-no-content);color:#d8d7ec;font-size:var(--heading-font-size);font-weight:bolder;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center}
