@@ -8,7 +8,7 @@
       "_singletons-a6a7384f.js"
     ],
     "dynamicImports": [
-      "src/routes/__layout.svelte",
+      "src/routes/layout.svelte",
       ".svelte-kit/runtime/components/error.svelte",
       "src/routes/index.svelte",
       "src/routes/[tab]/create.svelte",
@@ -18,9 +18,9 @@
       "src/routes/[tab]/[id]/view.svelte"
     ]
   },
-  "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-80d5b67c.js",
-    "src": "src/routes/__layout.svelte",
+  "src/routes/layout.svelte": {
+    "file": "pages/layout.svelte-80d5b67c.js",
+    "src": "src/routes/layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
@@ -32,7 +32,7 @@
       "_singletons-a6a7384f.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-ccee9a0f.css"
+      "assets/pages/layout.svelte-ccee9a0f.css"
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
